@@ -61,9 +61,7 @@ Any Java IDE (VS Code with extensions)
 - QR Code Tickets
 - Advanced Admin Dashboard
 - Live Bus Tracking (GPS Integration)
-- Cloud Database Support
-- Mobile App Version (Android)
-- Dark/Light Theme UI
+
 
 
 
